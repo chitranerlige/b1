@@ -1,1 +1,2 @@
 compare working dir to staging
+compare working dir to staging - updated in latest but not added to staging
